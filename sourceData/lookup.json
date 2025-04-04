@@ -1,0 +1,32 @@
+[
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Customer_Demographics.csv",
+        "p_sink_folder" : "AdventureWorks_Product_Categories",
+        "p_sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Account_Information.csv",
+        "p_sink_folder" : "Account_Information",
+        "p_sink_file" : "Account_Information.csv"
+    },
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Customer_Behavior.csv",
+        "p_sink_folder" : "Customer_Behavior",
+        "p_sink_file" : "Customer_Behavior.csv"
+    },
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Customer_Feedback.csv",
+        "p_sink_folder" : "Customer_Feedback",
+        "p_sink_file" : "Customer_Feedback.csv"
+    },
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/External_Data.csv",
+        "p_sink_folder" : "External_Data",
+        "p_sink_file" : "External_Data.csv"
+    },
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/External_Data.csv",
+        "p_sink_folder" : "External_Data",
+        "p_sink_file" : "External_Data.csv"
+    }
+]
