@@ -23,10 +23,5 @@
         "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/External_Data.csv",
         "p_sink_folder" : "External_Data",
         "p_sink_file" : "External_Data.csv"
-    },
-    {
-        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/External_Data.csv",
-        "p_sink_folder" : "External_Data",
-        "p_sink_file" : "External_Data.csv"
     }
 ]
