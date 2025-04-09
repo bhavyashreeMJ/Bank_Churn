@@ -28,7 +28,7 @@
         "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Feedback.csv",
         "p_sink_folder" : "Feedback",
         "p_sink_file" : "Feedback.csv"
-    }
+    },
     {
         "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Transaction.csv",
         "p_sink_folder" : "Transaction",
