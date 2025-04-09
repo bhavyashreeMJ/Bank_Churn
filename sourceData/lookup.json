@@ -1,27 +1,37 @@
 [
     {
-        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Customer_Demographics.csv",
-        "p_sink_folder" : "AdventureWorks_Product_Categories",
-        "p_sink_file" : "AdventureWorks_Product_Categories.csv"
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Account.csv",
+        "p_sink_folder" : "Account",
+        "p_sink_file" : "Account.csv"
     },
     {
-        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Account_Information.csv",
-        "p_sink_folder" : "Account_Information",
-        "p_sink_file" : "Account_Information.csv"
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Behavior.csv",
+        "p_sink_folder" : "Behavior",
+        "p_sink_file" : "Behavior.csv"
     },
     {
-        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Customer_Behavior.csv",
-        "p_sink_folder" : "Customer_Behavior",
-        "p_sink_file" : "Customer_Behavior.csv"
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Customer.csv",
+        "p_sink_folder" : "Customer",
+        "p_sink_file" : "Customer.csv"
     },
     {
-        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Customer_Feedback.csv",
-        "p_sink_folder" : "Customer_Feedback",
-        "p_sink_file" : "Customer_Feedback.csv"
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Date.csv",
+        "p_sink_folder" : "Date",
+        "p_sink_file" : "Date.csv"
     },
     {
-        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/External_Data.csv",
-        "p_sink_folder" : "External_Data",
-        "p_sink_file" : "External_Data.csv"
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/EconomicIndicator.csv",
+        "p_sink_folder" : "EconomicIndicator",
+        "p_sink_file" : "EconomicIndicator.csv"
+    },
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Feedback.csv",
+        "p_sink_folder" : "Feedback",
+        "p_sink_file" : "Feedback.csv"
+    }
+    {
+        "p_rel_url" : "bhavyashreeMJ/Bank_Churn/refs/heads/main/sourceData/Transaction.csv",
+        "p_sink_folder" : "Transaction",
+        "p_sink_file" : "Transaction.csv"
     }
 ]
