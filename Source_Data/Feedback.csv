@@ -1,0 +1,201 @@
+FeedbackID,CustomerID,SurveyScore,ComplaintFlag,ServiceRating,Comment,LastUpdated,Exited
+FBK0000,CUST0000,2.8,0,3,Unhappy with charges,19:14.7,0
+FBK0001,CUST0001,3.4,1,4,Good service,22:14.7,0
+FBK0002,CUST0002,2,1,5,Average experience,44:14.7,1
+FBK0003,CUST0003,2.6,0,1,Poor support,17:14.7,1
+FBK0004,CUST0004,3.7,0,5,Poor support,31:14.7,0
+FBK0005,CUST0005,1.9,0,3,Average experience,52:14.7,0
+FBK0006,CUST0006,3.4,0,2,Unhappy with charges,20:14.7,0
+FBK0007,CUST0007,3.8,1,2,Good service,43:14.7,0
+FBK0008,CUST0008,1.4,1,5,Average experience,47:14.7,0
+FBK0009,CUST0009,3,0,2,Average experience,04:14.7,0
+FBK0010,CUST0010,2.1,0,5,Poor support,05:14.7,0
+FBK0011,CUST0011,3.9,1,3,Good service,02:14.7,0
+FBK0012,CUST0012,1.8,0,2,Average experience,40:14.7,0
+FBK0013,CUST0013,4.6,1,1,Good service,02:14.7,0
+FBK0014,CUST0014,2.7,0,5,Unhappy with charges,06:14.7,0
+FBK0015,CUST0015,1.8,1,2,Poor support,49:14.7,0
+FBK0016,CUST0016,2.8,0,3,Unhappy with charges,32:14.7,0
+FBK0017,CUST0017,2.6,0,3,Good service,29:14.7,0
+FBK0018,CUST0018,2.7,1,1,Unhappy with charges,02:14.7,1
+FBK0019,CUST0019,3.3,1,3,Poor support,24:14.7,0
+FBK0020,CUST0020,3.1,0,3,Good service,55:14.7,1
+FBK0021,CUST0021,1.6,0,2,Average experience,26:14.7,0
+FBK0022,CUST0022,1.3,1,5,Unhappy with charges,52:14.7,0
+FBK0023,CUST0023,3.9,1,4,Poor support,52:14.7,0
+FBK0024,CUST0024,3.2,0,3,Average experience,28:14.7,0
+FBK0025,CUST0025,2.4,0,3,Poor support,46:14.7,0
+FBK0026,CUST0026,4.2,1,4,Good service,59:14.7,0
+FBK0027,CUST0027,2.6,1,3,Good service,40:14.7,0
+FBK0028,CUST0028,4.2,1,2,Unhappy with charges,16:14.7,0
+FBK0029,CUST0029,2.2,1,2,Poor support,32:14.7,0
+FBK0030,CUST0030,1.3,1,4,Poor support,50:14.7,0
+FBK0031,CUST0031,4.7,0,3,Poor support,29:14.7,0
+FBK0032,CUST0032,2.6,0,3,Good service,09:14.7,0
+FBK0033,CUST0033,4.2,1,5,Unhappy with charges,34:14.7,0
+FBK0034,CUST0034,2.1,0,3,Poor support,48:14.7,0
+FBK0035,CUST0035,3.6,0,2,Poor support,37:14.7,0
+FBK0036,CUST0036,4.5,1,1,Average experience,30:14.7,0
+FBK0037,CUST0037,1.2,0,1,Poor support,45:14.7,0
+FBK0038,CUST0038,4.3,0,1,Unhappy with charges,48:14.7,0
+FBK0039,CUST0039,3.3,0,1,Average experience,56:14.7,0
+FBK0040,CUST0040,3.4,1,3,Average experience,17:14.7,0
+FBK0041,CUST0041,3.1,1,3,Average experience,01:14.7,0
+FBK0042,CUST0042,4.5,0,5,Good service,47:14.7,0
+FBK0043,CUST0043,1.2,0,3,Average experience,33:14.7,0
+FBK0044,CUST0044,2,0,1,Poor support,43:14.7,0
+FBK0045,CUST0045,4.5,0,4,Good service,22:14.7,0
+FBK0046,CUST0046,4,0,4,Good service,56:14.7,0
+FBK0047,CUST0047,1.1,0,2,Good service,38:14.7,1
+FBK0048,CUST0048,3.1,1,2,Good service,50:14.7,0
+FBK0049,CUST0049,3.1,0,3,Good service,05:14.7,0
+FBK0050,CUST0050,2.6,0,4,Good service,12:14.7,0
+FBK0051,CUST0051,2.2,1,1,Good service,20:14.7,0
+FBK0052,CUST0052,3.7,0,1,Average experience,04:14.7,0
+FBK0053,CUST0053,1.8,0,1,Unhappy with charges,07:14.7,0
+FBK0054,CUST0054,4.2,0,3,Poor support,08:14.7,1
+FBK0055,CUST0055,4.2,0,3,Poor support,28:14.7,0
+FBK0056,CUST0056,2.7,1,5,Average experience,54:14.7,0
+FBK0057,CUST0057,2.1,0,1,Average experience,28:14.7,0
+FBK0058,CUST0058,2.1,1,1,Good service,09:14.7,0
+FBK0059,CUST0059,2.9,0,3,Unhappy with charges,36:14.7,0
+FBK0060,CUST0060,3.9,0,3,Good service,39:14.7,0
+FBK0061,CUST0061,2.4,1,5,Average experience,44:14.7,0
+FBK0062,CUST0062,3.4,0,5,Good service,33:14.7,0
+FBK0063,CUST0063,2.5,1,2,Poor support,47:14.7,0
+FBK0064,CUST0064,2.2,1,4,Poor support,49:14.7,1
+FBK0065,CUST0065,1.1,1,1,Good service,33:14.7,0
+FBK0066,CUST0066,1,0,1,Unhappy with charges,11:14.7,0
+FBK0067,CUST0067,1.9,0,5,Good service,20:14.7,0
+FBK0068,CUST0068,2.6,0,5,Good service,34:14.7,0
+FBK0069,CUST0069,4.4,0,2,Unhappy with charges,42:14.7,1
+FBK0070,CUST0070,4.2,1,4,Unhappy with charges,39:14.7,0
+FBK0071,CUST0071,2.1,0,2,Unhappy with charges,52:14.7,0
+FBK0072,CUST0072,2,0,4,Poor support,04:14.7,0
+FBK0073,CUST0073,1.9,1,1,Good service,42:14.7,0
+FBK0074,CUST0074,2.4,1,2,Average experience,00:14.7,0
+FBK0075,CUST0075,3,0,5,Unhappy with charges,35:14.7,0
+FBK0076,CUST0076,2.8,1,2,Unhappy with charges,58:14.7,0
+FBK0077,CUST0077,1.9,1,2,Good service,32:14.7,0
+FBK0078,CUST0078,1.5,1,1,Average experience,02:14.7,0
+FBK0079,CUST0079,1.1,1,5,Good service,39:14.7,1
+FBK0080,CUST0080,1.6,1,5,Good service,52:14.7,1
+FBK0081,CUST0081,3.8,0,3,Unhappy with charges,36:14.7,0
+FBK0082,CUST0082,2,0,3,Unhappy with charges,21:14.7,1
+FBK0083,CUST0083,2.9,0,3,Poor support,19:14.7,0
+FBK0084,CUST0084,3.4,0,1,Average experience,49:14.7,0
+FBK0085,CUST0085,4.5,0,2,Average experience,44:14.7,1
+FBK0086,CUST0086,4.6,0,5,Unhappy with charges,38:14.7,0
+FBK0087,CUST0087,4,0,5,Unhappy with charges,09:14.7,0
+FBK0088,CUST0088,1.1,1,2,Unhappy with charges,40:14.7,1
+FBK0089,CUST0089,3.3,0,5,Average experience,13:14.7,0
+FBK0090,CUST0090,4.1,0,2,Poor support,07:14.7,0
+FBK0091,CUST0091,1.1,0,1,Average experience,24:14.7,0
+FBK0092,CUST0092,3.2,1,1,Unhappy with charges,15:14.7,0
+FBK0093,CUST0093,4.4,0,1,Unhappy with charges,23:14.7,0
+FBK0094,CUST0094,2.9,0,2,Poor support,58:14.7,0
+FBK0095,CUST0095,1,1,2,Good service,07:14.7,0
+FBK0096,CUST0096,1,0,4,Good service,15:14.7,0
+FBK0097,CUST0097,2.7,0,5,Average experience,40:14.7,0
+FBK0098,CUST0098,1.6,1,5,Good service,05:14.7,0
+FBK0099,CUST0099,3.7,0,4,Good service,12:14.7,0
+FBK0100,CUST0100,3.8,1,4,Average experience,48:14.7,0
+FBK0101,CUST0101,1.7,0,1,Unhappy with charges,54:14.7,0
+FBK0102,CUST0102,4.6,0,4,Good service,35:14.7,1
+FBK0103,CUST0103,2.8,0,2,Unhappy with charges,04:14.7,0
+FBK0104,CUST0104,1.6,1,3,Average experience,59:14.7,1
+FBK0105,CUST0105,4.1,1,2,Unhappy with charges,42:14.7,0
+FBK0106,CUST0106,4.2,1,4,Unhappy with charges,28:14.7,0
+FBK0107,CUST0107,3.6,0,5,Average experience,47:14.7,0
+FBK0108,CUST0108,4.4,0,2,Unhappy with charges,37:14.7,0
+FBK0109,CUST0109,3.9,1,5,Good service,05:14.7,0
+FBK0110,CUST0110,4.5,1,2,Good service,18:14.7,0
+FBK0111,CUST0111,2.7,0,5,Good service,53:14.7,0
+FBK0112,CUST0112,4,0,2,Good service,54:14.7,0
+FBK0113,CUST0113,5,0,5,Unhappy with charges,37:14.7,1
+FBK0114,CUST0114,3.9,0,3,Good service,46:14.7,0
+FBK0115,CUST0115,1.5,1,1,Unhappy with charges,10:14.7,1
+FBK0116,CUST0116,3.1,0,2,Poor support,28:14.7,0
+FBK0117,CUST0117,3.3,0,3,Unhappy with charges,17:14.7,0
+FBK0118,CUST0118,1.7,0,1,Good service,52:14.7,0
+FBK0119,CUST0119,4.9,0,2,Poor support,34:14.7,1
+FBK0120,CUST0120,1.7,0,3,Average experience,36:14.7,0
+FBK0121,CUST0121,1.7,0,3,Unhappy with charges,34:14.7,0
+FBK0122,CUST0122,4.7,0,3,Good service,20:14.7,0
+FBK0123,CUST0123,2.9,1,4,Good service,12:14.7,0
+FBK0124,CUST0124,1.3,1,5,Good service,48:14.7,0
+FBK0125,CUST0125,3.4,1,1,Average experience,34:14.7,0
+FBK0126,CUST0126,3.4,0,5,Poor support,16:14.7,0
+FBK0127,CUST0127,1.3,1,5,Poor support,30:14.7,0
+FBK0128,CUST0128,4.9,0,5,Good service,51:14.7,1
+FBK0129,CUST0129,3.2,0,3,Unhappy with charges,02:14.7,0
+FBK0130,CUST0130,3.2,0,5,Good service,21:14.7,0
+FBK0131,CUST0131,3.1,0,4,Good service,02:14.7,1
+FBK0132,CUST0132,3.4,1,2,Unhappy with charges,07:14.7,0
+FBK0133,CUST0133,2.1,0,3,Good service,24:14.7,0
+FBK0134,CUST0134,2.1,0,1,Average experience,31:14.7,1
+FBK0135,CUST0135,3,1,2,Good service,58:14.7,0
+FBK0136,CUST0136,4.2,1,2,Average experience,23:14.7,0
+FBK0137,CUST0137,1.2,1,2,Good service,30:14.7,0
+FBK0138,CUST0138,3.4,0,5,Poor support,57:14.7,0
+FBK0139,CUST0139,4.2,1,5,Unhappy with charges,49:14.7,0
+FBK0140,CUST0140,1.6,0,3,Poor support,55:14.7,0
+FBK0141,CUST0141,1.1,0,5,Good service,47:14.7,0
+FBK0142,CUST0142,2.3,1,5,Good service,17:14.7,1
+FBK0143,CUST0143,3.4,1,5,Average experience,30:14.7,0
+FBK0144,CUST0144,1.6,1,3,Good service,44:14.7,0
+FBK0145,CUST0145,2.7,0,3,Good service,48:14.7,0
+FBK0146,CUST0146,3.2,0,4,Good service,27:14.7,1
+FBK0147,CUST0147,3.4,0,4,Poor support,22:14.7,1
+FBK0148,CUST0148,2.1,0,4,Average experience,23:14.7,1
+FBK0149,CUST0149,2.6,0,4,Poor support,01:14.7,1
+FBK0150,CUST0150,4.1,0,2,Average experience,11:14.7,0
+FBK0151,CUST0151,4.8,1,2,Poor support,01:14.7,0
+FBK0152,CUST0152,4.4,0,4,Good service,57:14.7,0
+FBK0153,CUST0153,3.3,1,4,Poor support,29:14.7,0
+FBK0154,CUST0154,2.6,1,1,Poor support,19:14.7,0
+FBK0155,CUST0155,2.3,1,2,Average experience,21:14.7,0
+FBK0156,CUST0156,1.5,1,1,Average experience,41:14.7,0
+FBK0157,CUST0157,1.4,1,1,Poor support,27:14.7,1
+FBK0158,CUST0158,3.8,0,5,Average experience,16:14.7,0
+FBK0159,CUST0159,2,0,3,Average experience,05:14.7,0
+FBK0160,CUST0160,2,0,2,Average experience,46:14.7,0
+FBK0161,CUST0161,5,0,4,Unhappy with charges,24:14.7,0
+FBK0162,CUST0162,1.8,1,4,Average experience,19:14.7,0
+FBK0163,CUST0163,1.6,1,3,Unhappy with charges,57:14.7,0
+FBK0164,CUST0164,1.4,1,2,Unhappy with charges,01:14.7,0
+FBK0165,CUST0165,3.3,0,4,Average experience,04:14.7,0
+FBK0166,CUST0166,3.5,0,4,Poor support,56:14.7,0
+FBK0167,CUST0167,2.5,0,5,Average experience,33:14.7,0
+FBK0168,CUST0168,3.1,0,1,Good service,43:14.7,0
+FBK0169,CUST0169,4.2,1,4,Poor support,45:14.7,0
+FBK0170,CUST0170,4.3,1,2,Unhappy with charges,20:14.7,0
+FBK0171,CUST0171,4.8,0,3,Unhappy with charges,21:14.7,0
+FBK0172,CUST0172,4.3,0,5,Poor support,58:14.7,0
+FBK0173,CUST0173,3.3,1,2,Poor support,13:14.7,0
+FBK0174,CUST0174,1.7,1,5,Average experience,46:14.7,1
+FBK0175,CUST0175,1.4,1,1,Unhappy with charges,58:14.7,1
+FBK0176,CUST0176,1.2,1,4,Good service,35:14.7,0
+FBK0177,CUST0177,3.7,0,2,Average experience,29:14.7,0
+FBK0178,CUST0178,4.2,1,3,Poor support,31:14.7,0
+FBK0179,CUST0179,3,1,1,Unhappy with charges,26:14.7,0
+FBK0180,CUST0180,1.2,1,1,Poor support,30:14.7,0
+FBK0181,CUST0181,3.1,1,5,Poor support,26:14.7,0
+FBK0182,CUST0182,4.7,0,1,Poor support,34:14.7,0
+FBK0183,CUST0183,3.4,0,2,Average experience,52:14.7,0
+FBK0184,CUST0184,4.2,0,5,Good service,50:14.7,1
+FBK0185,CUST0185,4.2,0,1,Good service,06:14.7,0
+FBK0186,CUST0186,4.7,0,3,Unhappy with charges,17:14.7,0
+FBK0187,CUST0187,4.1,0,2,Poor support,51:14.7,0
+FBK0188,CUST0188,4,1,3,Good service,32:14.7,0
+FBK0189,CUST0189,1.9,1,3,Poor support,00:14.7,0
+FBK0190,CUST0190,1.2,1,5,Unhappy with charges,30:14.7,0
+FBK0191,CUST0191,3.1,1,4,Poor support,11:14.7,0
+FBK0192,CUST0192,1.5,0,5,Good service,50:14.7,0
+FBK0193,CUST0193,4.8,1,2,Poor support,10:14.7,0
+FBK0194,CUST0194,2.2,0,2,Good service,48:14.7,0
+FBK0195,CUST0195,4.4,1,5,Unhappy with charges,27:14.7,0
+FBK0196,CUST0196,2.6,1,4,Poor support,59:14.7,0
+FBK0197,CUST0197,2.3,1,5,Good service,43:14.7,0
+FBK0198,CUST0198,4.7,0,2,Unhappy with charges,38:14.7,0
+FBK0199,CUST0199,2.5,1,4,Poor support,52:14.7,0
